@@ -1,0 +1,12 @@
+{
+  "name": "release-check",
+  "version": "1.0.0",
+  "description": "check jira tickets to be included in a release",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "customer tribe / <george.schiopu@prettylittlething.com>",
+  "license": "ISC"
+}
